@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test render Snapshot 1`] = `
+<View>
+  <Text>
+    0
+  </Text>
+  <View>
+    <Text>
+      Komal
+    </Text>
+    <Text>
+      22
+    </Text>
+  </View>
+</View>
+`;
